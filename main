@@ -1,0 +1,31 @@
+package projecttest;
+
+public class MainApp {
+
+    public static void main(String[] args) {
+        Library<Media> library = new Library<>();
+
+        LibraryObserver user1 = new LibraryUser("User 1");
+        LibraryObserver user2 = new LibraryUser("User 2");
+
+        library.addObserver(user1);
+        library.addObserver(user2);
+
+        Book book = new Book("To Kill a Mockingbird","g", 12.99);
+        Movie movie = new Movie("Inception", "Christopher Nolan", 14.99);
+        Magazine magazine = new Magazine("National Geographic", 8.99);
+        AudioBook audioBook = new AudioBook("The Power of Now","gh", "Eckhart Tolle", 19.99);
+
+        library.addMediaItem(book);
+        library.updateMediaPrice(book, 14.99);
+
+        library.addMediaItem(movie);
+        library.updateMediaPrice(movie, 16.99);
+
+        library.addMediaItem(magazine);
+        library.updateMediaPrice(magazine, 9.99);
+
+        library.addMediaItem(audioBook);
+        library.updateMediaPrice(audioBook, 24.99);
+    }
+}
