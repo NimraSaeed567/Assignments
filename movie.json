@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Inception",
+    "director": "Christopher Nolan",
+    "metadata": {
+      "price": 14.99,
+      "categories": ["Sci-Fi", "Thriller"],
+      "duration": 148,
+      "releaseYear": 2010
+    }
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "Christopher Nolan",
+    "metadata": {
+      "price": 12.99,
+      "categories": ["Action", "Crime", "Drama"],
+      "duration": 152,
+      "releaseYear": 2008
+    }
+  },
+  {
+    "title": "Interstellar",
+    "director": "Christopher Nolan",
+    "metadata": {
+      "price": 17.99,
+      "categories": ["Sci-Fi", "Adventure", "Drama"],
+      "duration": 169,
+      "releaseYear": 2014
+    }
+  }
+]
