@@ -1,4 +1,4 @@
-package com.java.Assign1;
+package projecttest;
 
 public class Book {
     private String title;
