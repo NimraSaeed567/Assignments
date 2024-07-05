@@ -1,4 +1,4 @@
-package com.java.Assign1;
+package projecttest;
 
 import java.io.FileReader;
 
