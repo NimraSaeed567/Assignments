@@ -1,0 +1,35 @@
+[
+  {
+    "title": "The Power of Now",
+    "author": "Eckhart Tolle",
+    "narrator": "Eckhart Tolle",
+    "metadata": {
+      "price": 19.99,
+      "categories": ["Self-Help", "Spirituality"],
+      "duration": "8 hours 15 minutes",
+      "releaseYear": 1997
+    }
+  },
+  {
+    "title": "Becoming",
+    "author": "Michelle Obama",
+    "narrator": "Michelle Obama",
+    "metadata": {
+      "price": 24.99,
+      "categories": ["Biography", "Memoir"],
+      "duration": "19 hours 3 minutes",
+      "releaseYear": 2018
+    }
+  },
+  {
+    "title": "The Subtle Art of Not Giving a F*ck",
+    "author": "Mark Manson",
+    "narrator": "Roger Wayne",
+    "metadata": {
+      "price": 14.99,
+      "categories": ["Self-Help", "Personal Development"],
+      "duration": "5 hours 30 minutes",
+      "releaseYear": 2016
+    }
+  }
+]
