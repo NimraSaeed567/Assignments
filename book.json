@@ -1,0 +1,32 @@
+[
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "metadata": {
+      "price": 12.99,
+      "categories": ["fiction", "classic"],
+      "isbn": "9780061120084",
+      "pages": 324
+    }
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "metadata": {
+      "price": 9.99,
+      "categories": ["fiction", "dystopian"],
+      "isbn": "9780451524935",
+      "pages": 328
+    }
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "metadata": {
+      "price": 8.99,
+      "categories": ["fiction", "coming-of-age"],
+      "isbn": "9780316769488",
+      "pages": 224
+    }
+  }
+]
