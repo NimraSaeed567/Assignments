@@ -1,0 +1,32 @@
+[
+  {
+    "title": "National Geographic",
+    "metadata": {
+      "price": 8.99,
+      "categories": ["Science", "Nature"],
+      "publicationDate": "2023-06-01",
+      "issueNumber": 215,
+      "publisher": "National Geographic Society"
+    }
+  },
+  {
+    "title": "TIME",
+    "metadata": {
+      "price": 7.99,
+      "categories": ["News", "Politics"],
+      "publicationDate": "2023-07-01",
+      "issueNumber": 259,
+      "publisher": "TIME USA, LLC"
+    }
+  },
+  {
+    "title": "The New Yorker",
+    "metadata": {
+      "price": 9.99,
+      "categories": ["Culture", "Literature"],
+      "publicationDate": "2023-07-15",
+      "issueNumber": 235,
+      "publisher": "Conde Nast"
+    }
+  }
+]
